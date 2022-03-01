@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, building things, and spending time with my dog Zeus
 
+![Thilu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiluxan-s&show_icons=true)
+
 ### Languages & Tools in My Belt:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
@@ -20,14 +22,4 @@
 
 <!--
 **thiluxan-s/thiluxan-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 -->
