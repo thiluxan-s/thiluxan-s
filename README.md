@@ -2,6 +2,10 @@
 
 ## Investor | Developer | Crypto & Web 3.0 Enthusiast
 
+<!--
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="500" height="320" /> 
+-->
+     
 - 🌱 I’m currently and always learning ... New technologies excite me
 - 👯 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, building things, and spending time with my dog Zeus
