@@ -12,7 +12,7 @@
 
 ![Thilu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiluxan-s&show_icons=true)
 
-### Languages & Tools in My Belt:
+### Tools in My Belt:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
