@@ -1,6 +1,6 @@
 ### Hi there, I'm Thiluxan 👋
 
-## Investor | Developer | Crypto & Web 3.0 Enthusiast
+## Full-Stack / React Developer | Crypto & Web 3.0 Enthusiast
 
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="500" height="320" /> 
