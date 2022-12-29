@@ -16,11 +16,12 @@
 <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" height="42px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Next" height="42px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />
+<img align="left" alt="Next" height="42px" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" />
 <img align="left" alt="Solidity" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
 <img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
-<img align="left" alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="SqLige" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
+<img align="left" alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" height="42px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
