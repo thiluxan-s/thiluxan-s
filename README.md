@@ -14,13 +14,14 @@
 
 ### Tools in My Belt:
 <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" height="42px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Next" height="42px" src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" />
 <img align="left" alt="Solidity" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
 <img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSS3" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="React" height="42px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" height="42px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
 
