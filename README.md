@@ -21,10 +21,6 @@
 <img align="left" alt="TypeScript" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" />
 <img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<br />
-<br />
-
 <img align="left" alt="TWcss" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 <img align="left" alt="SqLite" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
