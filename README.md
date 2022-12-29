@@ -25,6 +25,8 @@
 <br />
 <br />
 
+<img align="left" alt="TWcss" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<img align="left" alt="SqLite" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
