@@ -24,6 +24,7 @@
 
 <br />
 <br />
+<br />
 
 <img align="left" alt="SqLige" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
