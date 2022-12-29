@@ -20,7 +20,7 @@
 <img align="left" alt="CSS3" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="React" height="42px" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" />
+<img align="left" alt="React" height="42px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" height="42px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
 
