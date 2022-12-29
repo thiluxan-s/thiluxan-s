@@ -31,7 +31,7 @@
 <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" height="42px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
-
+<img align="left" alt="VS" height="42px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 
 
 <!--
