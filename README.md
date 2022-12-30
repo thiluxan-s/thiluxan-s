@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, building things, and spending time with my dog Zeus
 
-![Thilu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiluxan-s&show_icons=true)
 
 ### Tools in My Belt:
 <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
