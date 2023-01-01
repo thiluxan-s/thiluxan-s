@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="500" height="320" /> 
 -->
      
-- 🌱 Always learning ... New technologies excite me
+- 🌱 Always learning ... New technologies excite me. Currently building in Web3
 - 👯 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, building things, and spending time with my dog Zeus
 
