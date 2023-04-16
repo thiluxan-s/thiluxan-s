@@ -1,6 +1,6 @@
 ### Hi there, I'm Thiluxan 👋
 
-## React / Node Developer | Web 3.0 Enthusiast
+## React / Node Developer | Web 3.0
 
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="500" height="320" /> 
