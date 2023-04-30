@@ -7,7 +7,7 @@
 -->
 
 - 🛠️ Currently building immersive digital experiences
-- 🌱 Always learning ... New technologies excite me. Currently learning Web3
+- 🌱 Always learning ... New technologies excite me. Currently exploring Web3
 - 🧑🏽‍🤝‍🧑🏽 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, history, and spending time with my dog Zeus
 
