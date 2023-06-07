@@ -6,8 +6,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="500" height="320" /> 
 -->
 
-- 🛠️ Currently building immersive digital experiences
-- 🌱 Always learning ... New technologies excite me. Currently exploring Web3
+- 🛠️ Currently building 
+- 🌱 Always learning ... Currently exploring Web3
 - 🧑🏽‍🤝‍🧑🏽 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, history, and spending time with my dog Zeus
 
