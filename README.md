@@ -2,6 +2,7 @@
 
 ## Full Stack Developer | Web 3.0
 
+A resident at the crossroads of logic and creativity..
 - 🛠️ Currently building 
 - 🌱 Always learning ... Currently exploring Web3
 - 🧑🏽‍🤝‍🧑🏽 I’m looking to collaborate with others ... Feel free to reach out!
