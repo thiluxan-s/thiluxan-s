@@ -2,10 +2,6 @@
 
 ## Full Stack Developer | Web 3.0
 
-<!--
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" alt width="480" /> 
--->
-
 - 🛠️ Currently building 
 - 🌱 Always learning ... Currently exploring Web3
 - 🧑🏽‍🤝‍🧑🏽 I’m looking to collaborate with others ... Feel free to reach out!
