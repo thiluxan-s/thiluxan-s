@@ -19,10 +19,7 @@ A resident at the crossroads of logic and creativity..
 <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="TWcss" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 <img align="left" alt="SqLite" height="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
-<img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="gql" height="42px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
-
 
 <!--
 **thiluxan-s/thiluxan-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
