@@ -3,7 +3,7 @@
 ## Full Stack Developer | Web 3.0
 
 A resident at the crossroads of logic and creativity..
-- 🛠️ Currently building in Med Tech- Ophthalmology
+- 🛠️ Currently building in Med Tech - Ophthalmology
 - 🌱 Always learning ... Currently exploring Web3 & AI
 - 🧑🏽‍🤝‍🧑🏽 I’m looking to collaborate with others ... Feel free to reach out!
 - ⚡ Fun fact: I love traveling, history, and spending time with my dog Zeus
